@@ -9,3 +9,7 @@ now its show!
 ## Demo 2
 
 testing number 2
+
+## local development
+
+1.open index.html
